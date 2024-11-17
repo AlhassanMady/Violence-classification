@@ -42,5 +42,5 @@ pip install -r requirements.txt
 You can use the provided notebooks.
 
 
-📧 Contact
+## 📧 Contact
 For any questions or collaborations, please reach out via email: [alhassan.abdelhalim@uni-hamburg.de] or [alhassanmady01@gmail.com]
