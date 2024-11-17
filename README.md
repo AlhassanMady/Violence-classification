@@ -31,8 +31,8 @@ The dataset used for this research is based on the ERIS system for violent texts
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/username/violence-detection-llm.git
-cd violence-detection-llm
+git clone https://github.com/AlhassanMady/Violence-classification.git 
+cd VIolence-classification
 ```
 ## Install dependencies:
 ```bash
