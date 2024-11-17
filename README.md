@@ -14,31 +14,8 @@ The thesis explores two main experiments:
    - **Motive**: strategic, emotional, religious, etc.
    - **Long-Term Consequences**: death, conquest, plunder, etc.
 
-
-## 📂 Project Structure
-
-```plaintext
-data/               # Preprocessed datasets used in both experiments
-notebooks/          # Jupyter notebooks for data exploration, training, and evaluation
-models/             # Pre-trained and fine-tuned models used for classification tasks
-src/                # Core scripts for training, fine-tuning, and evaluation
-results/            # Evaluation metrics, confusion matrices, and performance reports
-```
 ## 📊 Datasets
 The dataset used for this research is based on the ERIS system for violent texts and additional non-violent examples extracted from the Perseus Digital Library. The dataset was further cleaned and preprocessed to ensure a balanced classification dataset.
-
-## 🚀 Getting Started
-
-### Clone the repository:
-```bash
-git clone https://github.com/AlhassanMady/Violence-classification.git
-```
-## Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-## Run the experiments: 
-You can use the provided notebooks.
 
 
 ## 📧 Contact
